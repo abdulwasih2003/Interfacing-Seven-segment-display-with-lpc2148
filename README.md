@@ -7,13 +7,18 @@ Date of experiment: 10/11/2022
 Ex. No. : 08
 Date: 10/11/2022
  
-## Aim: To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim: 
+To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
+## Components required:
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
  ![image](https://user-images.githubusercontent.com/36288975/201021692-efa39349-1a3c-4737-aadc-1843b954c78d.png)
 Figure-01 Internal circuit for seven segment MPX4 display
 
 ## Theory: 
-	7 Segment Display has seven segments in it and each segment has one LED inside it to display the numbers by lighting up the corresponding segments. Like if you want the 7-segment to display the number "5" then you need to glow segment a,f,g,c, and d by making their corresponding pins high. There are two types of 7-segment displays: Common Cathode and Common Anode, here we are using Common Cathode seven segment display.
+	7 Segment Display has seven segments in it and each segment has one LED inside it to display the numbers
+	by lighting up the corresponding segments. Like if you want the 7-segment to display the number "5" then
+	you need to glow segment a,f,g,c, and d by making their corresponding pins high. There are two types of 
+	7-segment displays: Common Cathode and Common Anode, here we are using Common Cathode seven segment display.
    ![image](https://user-images.githubusercontent.com/36288975/201021740-565b47cd-26d8-4e54-a092-eef7a0a85278.png)
  
           Figure-02 Pin configuration for seven segment display  
